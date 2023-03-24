@@ -1,0 +1,9 @@
+# Configuration constants
+
+[kafka]
+KAFKA_BOOTSTRAP_SERVERS = "localhost:9092"
+KAFKA_TOPIC = "my_topic"
+
+[flink]
+FLINK_JOB_MANAGER = "localhost:8081"
+FLINK_PARALLELISM = 4
