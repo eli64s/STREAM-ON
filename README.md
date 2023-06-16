@@ -3,7 +3,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
 <br>
-STREAM-ON
+FlinkFlow
 </h1>
 <h3 align="center">📍 Real-time stream processing wiht PyFlink.</h3>
 <h3 align="center">🚀 Developed with the software and tools below.</h3>
@@ -30,7 +30,7 @@ STREAM-ON
 - [🚀 Getting Started](#-getting-started)
   - [✅ Prerequisites](#-prerequisites)
   - [💻 Installation](#-installation)
-  - [🤖 Using STREAM-ON](#-using-stream-on)
+  - [🤖 Using FlinkFlow](#-using-flinkflow)
   - [🧪 Running Tests](#-running-tests)
 - [🛠 Future Development](#-future-development)
 - [🤝 Contributing](#-contributing)
@@ -41,7 +41,7 @@ STREAM-ON
 
 ## 📍Overview
 
-STREAM-ON is a repository for building real-time data processing apps with PyFlink.
+FlinkFlow is a repository for building real-time data processing apps with PyFlink.
 
 ## 🔮 Feautres
 
@@ -109,14 +109,14 @@ Before you begin, ensure that you have the following prerequisites installed:
 
 ### 💻 Installation
 
-1. Clone the STREAM-ON repository:
+1. Clone the FlinkFlow repository:
 ```sh
-git clone https://github.com/eli64s/STREAM-ON
+git clone https://github.com/eli64s/FlinkFlow
 ```
 
 2. Change to the project directory:
 ```sh
-cd STREAM-ON
+cd FlinkFlow
 ```
 
 3. Install the dependencies:
@@ -124,7 +124,7 @@ cd STREAM-ON
 pip install -r requirements.txt
 ```
 
-### 🤖 Using STREAM-ON
+### 🤖 Using FlinkFlow
 
 ```sh
 python main.py
